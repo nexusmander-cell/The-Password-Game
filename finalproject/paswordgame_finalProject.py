@@ -9,7 +9,7 @@ played_rule_sound = set()  # track which rules already played
 
 
 def play_completion_sound():
-    sound_path = "finalproject/thank_you.wav"  # renamed clean filename
+    sound_path = "finalproject/thank_you.wav"  
 
     if os.path.exists(sound_path):
         try:
@@ -40,7 +40,7 @@ def check_rules(event=None):
 
             # play sound ONCE per rule
             if rule not in played_rule_sound:
-                winsound.PlaySound("finalproject/thank_you.wav",
+                winsound.PlaySound("finalproject\How Is That D Yes King Sound Effect ｜ Soundboard Link ⬇⬇ (mp3cut.net) (1).wav",
                                    winsound.SND_FILENAME | winsound.SND_ASYNC)
                 played_rule_sound.add(rule)
 
