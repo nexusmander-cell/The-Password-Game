@@ -1,2 +1,0 @@
-Đây là một tệp văn bản mẫu.
-Dùng để thực hành nén và giải nén.
