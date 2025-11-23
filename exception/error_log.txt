@@ -1,0 +1,3 @@
+Value Error: invalid literal for int() with base 10: '& C:/Users/HP/AppData/Local/Programs/Python/Python313/python.exe d:/Lesson3Module2_python/exception/p3.py'
+Value Error: invalid literal for int() with base 10: 'two'
+Zero Division Error: division by zero
